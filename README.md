@@ -1,4 +1,4 @@
-# SP500-Daily-Volatility
+# SP500-Daily-Volatility and Circuit Breakers
 
 Using Quandl and SP500 rolling lead month futures as a proxy for SP500 index, use data science to determine whether circuit breakers work as intended or exacerbate the prevailing trend.
 
