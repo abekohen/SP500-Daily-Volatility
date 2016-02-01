@@ -10,6 +10,12 @@ crashes from 1982 - January 2016
 
 https://plot.ly/~abekohen/9/settle-vs-date/
 
+SPY ETF daily data, with (dividend) ADJUSTED closing prices
+
+http://finance.yahoo.com/q/hp?s=SPY+Historical+Prices
+
+
+
 
 
 
