@@ -1,6 +1,6 @@
 # SP500-Daily-Volatility and Circuit Breakers
 
-Using Quandl and SP500 rolling lead month futures as a proxy for SP500 index, use data science to determine whether Securities and Exchange Commission (SEC) and/or FINRA circuit breakers work as intended or exacerbate the prevailing trend.
+Using Quandl with SP500 rolling lead month futures as a proxy for the S&P500 index, use data science to determine whether Securities and Exchange Commission (SEC) and/or FINRA circuit breakers work as intended or exacerbate the prevailing trend.
 
 WHY IS THIS IMPORTANT?
 
